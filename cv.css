@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #406882;
+}
+.container{
+    background-color: #F0ECE3;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top:10px;
+}
+img{
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 50%;
+    float: left;
+    margin-top: 6px;
+    margin-left: 10px;
+}
+.div1{
+    float: left;
+    margin-top: 5px;
+    margin-left: 15px;
+    color: black;
+}
+.div2{
+    float: right;
+    margin-right: 50px;
+}
+.div2 a{
+    text-decoration: none;
+   
+    font-size: 12px;
+
+}
+.clear{
+    clear: both;
+    clear: ;
+}
+hr{
+    border: 1px solid black;
+    border-bottom: none;
+}
+.divm1{
+    float: left;
+    width: 30%;
+    padding: 20px;
+}
+.divm2{
+    float: left;
+    width: 70%;
+    padding: 20px 10px;
+}
+.divm3{
+    float: left;
+    width: 30%;
+    padding: 20px;
+}
+.divm4{
+    float: left;
+    padding: 20px 10px;
+    width: 70%;
+}
+.div5{
+    float: left;
+    width: 30%;
+    padding: 20px;
+}
+.div6{
+    float: left;
+    padding: 20px 10px;
+    width: 70%;
+}
+.div7{
+    float: left;
+    width: 30%;
+    padding: 20px;
+}
+.div8{
+    float: left;
+    width: 35%;
+    padding: 20px 10px;
+
+}
+.div9{
+    float: left;
+    width: 35%;
+    padding: 20px 10px;
+
+}
+.div10{
+    float: left;
+    width: 30%;
+    padding: 20px;
+}
+.div11{
+    float: left;
+    padding: 20px 10px;
+    width: 70%;
+}
+.div12{
+    float: left;
+    width: 30%;
+    padding: 20px;
+}
+.div13{
+    float: left;
+    padding: 20px 10px;
+    width: 35%;
+}
+.div14{
+    float: left;
+    padding: 20px 10px;
+    width: 35%;
+    
+}
+.footer{
+    text-align: center;
+   padding-top: 10px;
+    background-color: rgb(95, 16, 16);
+    max-width: 700px;
+    margin: 0 auto;
+    border: none;
+}
+.footer a{
+   font-size: 20px;
+   padding: 20px;
+   
+}
